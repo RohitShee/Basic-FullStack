@@ -35,6 +35,11 @@ app.get('/api/jokes',(req,res)=>{
             title : 'A fifth joke',
             content : 'This is a fifth joke'
         },
+        {
+            id: 6,
+            title : 'A sixth joke',
+            content : 'This is a Sixth joke'
+        }
 
     ];
 
